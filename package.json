@@ -2,6 +2,7 @@
   "name": "viajes",
   "version": "0.1.0",
   "private": true,
+  "description": "?v=cuzw4vL1z5E",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
